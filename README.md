@@ -21,7 +21,7 @@
 
 # About The Bot
 
-Flowz Tickets is a easy to use Discord Bot that includes moderator commands and a ticket system. Use !help for more info about the commands.
+Flowz Bot is a easy to use Discord Bot that includes moderator commands and a ticket system. Use !help for more info about the commands.
 
 # Requirements
 

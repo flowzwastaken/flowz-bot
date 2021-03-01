@@ -51,4 +51,4 @@ if you still need further help please join the [Discord](https://discord.gg/SdWw
 - You can configure different support options within the config file, this is an example of that.
 
 # Version
-1.0
+1.1

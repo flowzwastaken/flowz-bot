@@ -19,9 +19,9 @@
 
 > Support is provided on my discord server.
 
-# About the System
+# About The Bot
 
-Flowz Tickets is a easy to use Discord support system with easy configuration options that lets users contact support within your Discord server. Use !help for more info about the commands.
+Flowz Tickets is a easy to use Discord Bot that includes moderator commands and a ticket system. Use !help for more info about the commands.
 
 # Requirements
 

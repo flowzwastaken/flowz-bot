@@ -32,7 +32,7 @@
 module.exports = {
     // General Configuration
     prefix: "!",
-    token: 'NzkxMDYxNTYxMjIxMTg1NTM2.X-JrfQ.2HisnTD5K29TlyrNKQWAqxw1Ewc', //Token of your bot.
+    token: '', //Token of your bot.
     name: 'Flowz Bot', // Name Of your Bot (if left blank it will cause an error.)
 	status: '!help', // Bot Status
     statustype: 'LISTENING', // Bot Status Type Options: WATCHING, STREAMING, LISTENING, PLAYING

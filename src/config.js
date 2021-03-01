@@ -32,7 +32,7 @@
 module.exports = {
     // General Configuration
     prefix: "!",
-    token: '', //Token of your bot.
+    token: 'NzkxMDYxNTYxMjIxMTg1NTM2.X-JrfQ.2HisnTD5K29TlyrNKQWAqxw1Ewc', //Token of your bot.
     name: 'Flowz Bot', // Name Of your Bot (if left blank it will cause an error.)
 	status: '!help', // Bot Status
     statustype: 'LISTENING', // Bot Status Type Options: WATCHING, STREAMING, LISTENING, PLAYING
@@ -49,9 +49,14 @@ module.exports = {
     captchatime: 60000, // Maximum Captcha Time In MS
     xpsystem: false, // If true enables chat XP system
     membercount: false, // If true creates a channel displaying member count.
+    welcomechannel: true, // If true sends a welcome message to a channel you can customize it below.
+    welcomechannelmessage: 'Welcome to Our Server', // Message you want to be sent to the welcome channel defined below.
+    welcomechannelID: '815796524977750086', // ID of your welcome channel
+    welcomeDM: true, // If true sends a welcome message to a users DM you can customize it below.
+    welcomeDMmessage: 'Welcome To Our Server', // Message you want to be sent to the users DM.
+    autorole: true, // If true automatically assigns a role when joining the server.
+    autoroleID: '810662682293960724', // Role ID you want to be automatically assigned to members.
     membercountchannelID: '', // If membercount is true put the channel ID of your member count channel
-
-    // Customization Options
     ticket_category: '', // Category where you would like your tickets to send to
 	colour: '#009999', // Color of your embeds
 	err_colour: 'RED', // Color of your error embeds

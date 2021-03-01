@@ -14,7 +14,7 @@ module.exports = {
         if(moderation == true) {
             const role = message.guild.roles.cache.find(role => role.id === cfg.mutedrole);
             const member = message.mentions.members.first();
-            member.roles.remove(role);
+            member.roles.add(role);
             const embed = new Discord.MessageEmbed()
             .setAuthor(`Muted By: ${message.author.username}`, message.author.displayAvatarURL( {dynamic: true }))
             .setColor(cfg.colour)

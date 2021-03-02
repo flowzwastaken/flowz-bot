@@ -43,12 +43,5 @@ Flowz Bot is a easy to use Discord Bot that includes moderator commands and a ti
 
 - Done!
 
-if you still need further help please join the [Discord](https://discord.gg/SdWw3F7WM5) and open a ticket.
-
-# Preview
-![Screenshot_of_Product](https://i.imgur.com/oIeK6mp.png)
-![Screenshot_of_Product](https://i.imgur.com/C4RZ66Q.png)
-- You can configure different support options within the config file, this is an example of that.
-
 # Version
 1.1

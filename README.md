@@ -5,7 +5,6 @@
  <br>
 
   <a href="https://discord.gg/SdWw3F7WM5">
-    <img src="https://img.shields.io/discord/798609106268323910?label=join&logo=Discord&style=for-the-badge" alt="Support">
   </a> 
 </div>
 

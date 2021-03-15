@@ -1,9 +1,9 @@
 {
-  "name": "tutorials",
+  "name": "Flowz Bot",
   "version": "1.0.0",
   "main": "src/index",
-  "author": "Connor Moriarty",
-  "license": "MIT",
+  "author": "Flowz",
+  "license": "",
   "devDependencies": {
     "eslint": "^7.0.0",
     "eslint-config-tesseract": "^0.0.2"

@@ -1,6 +1,5 @@
 <div align="center">
-<img alt="Logo" src="https://i.imgur.com/7Yy41QQ.png" />
-   <strong><i>FlowzTickets V1</i></strong>
+   <strong><i>Flowz Bot</i></strong>
  <br>
  <br>
 

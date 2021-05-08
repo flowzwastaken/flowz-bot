@@ -9,11 +9,11 @@
 
 # Author
 
-* [Flowz#4864](https://github.com/foaf0)
+* [Flowz#4864](https://github.com/flowzwastaken)
 
 # Discord
 
-* [Click Here to Join My Discord](https://discord.gg/SdWw3F7WM5)
+* [Click Here to Join My Discord](https://discord.gg/eUQwKXkg2M)
 
 > Support is provided on my discord server.
 
